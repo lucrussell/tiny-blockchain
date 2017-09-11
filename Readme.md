@@ -5,10 +5,10 @@ This is a port of [snakecoin](https://gist.github.com/aunyks/47d157f8bc7d1829a72
 The idea is a toy Python blockchain to be used as a playground for experimentation.
 
 This version adds the following to the original:
-    
-    * Python 3
-    * [Falcon](http://falcon.readthedocs.io/en/stable/index.html) Web Framework
-    * docker-compose to more easily run multiple nodes
+
+* Python 3
+* [Falcon Web Framework](http://falcon.readthedocs.io/en/stable/index.html)
+* docker-compose to more easily run multiple nodes
 
 ## Usage
 
